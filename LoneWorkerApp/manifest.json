@@ -1,0 +1,21 @@
+{
+  "name": "Lone Worker Safety",
+  "short_name": "LWS App",
+  "description": "Lone Worker Safety monitoring application.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "https://www.flicks.co.nz/movie/home-alone/#",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.flicks.co.nz/movie/home-alone/#",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
